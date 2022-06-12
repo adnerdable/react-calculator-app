@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculator ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aishe Ibrahim",
+  "license": "ISC",
+  "dependencies": {
+    "react-textfit": "^1.1.1"
+  }
+}
